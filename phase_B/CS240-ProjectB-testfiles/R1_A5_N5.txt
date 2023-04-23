@@ -1,0 +1,43 @@
+# ************************************
+# University of Crete
+# Computer Science Department
+# 
+# CS240 - Data Structures
+# Project - Phase II test file
+# 
+# Events:    Number:
+#   R         1
+#   I         5
+#   C         0
+#   D         0
+#   A         0
+#   S         0
+#   F         0
+#   N         5
+#   E         0
+#   T         0
+#   X         3
+#   Y         2
+#   Z         2
+# 
+# Created on: 13/5/2020, 14:57:33
+# ************************************
+
+R 570
+I 989 570 1 1544
+I 449 570 7 2316
+I 748 570 8 2043
+I 884 570 9 2158
+I 498 570 5 2158
+X
+X
+Y
+X
+Y
+N 804
+N 470
+N 430
+N 963
+N 175
+Z
+Z
